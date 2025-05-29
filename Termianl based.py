@@ -1,6 +1,4 @@
-## Author: (Minhajul Islam Nion & u3266650)
-## Date created: 11 Aug 2023
-## Date last changed: 11 Aug 2023
+
 ## This program will show the athletes
 ## Input: The list of athletes is from Athletes-1.txt, Output: Display all athletes’ details,Show the search result of the following sports (Tabletennis, Volleyball, Cycling,Gymnastics), Show the search result of a sport that doesn’t exist in the list.
 
@@ -95,5 +93,3 @@ def searchAthlete():
         print("No results found, back to the main menu..")
 
 main()
-##Refrence1: some code followed from week 9 tuitorial solution
-##Refrence2: W3Schools. (2019). Python Tutorial. W3schools.com. https://www.w3schools.com/python/
