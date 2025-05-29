@@ -1,6 +1,4 @@
-## Author: (Minhajul Islam Nion & u3266650)
-## Date created: 09 Aug 2023
-## Date last changed: 10 Aug 2023
+
 ## This program will show the athletes first name in the first scrollbox and when users click on the name the results will be display in the list2 box and when user search by sports, it will show the athletes name in the search result box and when the sports are not in the list it will show that no results found
 ## Input: The list of athletes is from Athletes-1.txt, Output: a- Display the athletes’ first names into a list, Once the user clicks any athlete from that list, all the athlete’s details must appear into theentry items, Show the first names of the athletes resulted from the search of the following sports(Tabletennis, Volleyball, Cycling, Gymnastics) in the second list, Show the search result of a sport that doesn’t exist in the list.
 
@@ -158,5 +156,3 @@ lstMembers1.bind("<<ListboxSelect>>", lambda event: displayAthletesDetails(athle
 # Run the main event loop
 window.mainloop()
 
-## refrence1 : (the main window of GUI and all the GUI) code is taken from week 7 and week 9 tuitorial codes
-## refrence2 : displayAthletesDetails and getSportsNames code are taken from w3school
